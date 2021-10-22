@@ -1,6 +1,6 @@
 {
   "name": "google-map-lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Google map lib support the provide a google maps api easy to use functions.",
   "main": "index.js",
   "scripts": {
